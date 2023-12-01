@@ -5,7 +5,6 @@
 - <b>Google Cybersecurity</b>
 
   - [Praciting DS & Algos in Python]
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 
 <h2>📺 Projects </h2>
